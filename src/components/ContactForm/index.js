@@ -92,19 +92,9 @@ const ContactForm = () => {
                       </label>
                     </p>
                     <FormRow>
-                    <FormLabel htmlFor="contactno">
-                        Contact number
-                        <HalfWidthInput
-                          type="text"
-                          id="contactno"
-                          name="contactno"
-                          value={name}
-                          onChange={handleChange}
-                          required
-                        />
-                      </FormLabel>
+                    
                       <FormLabel htmlFor="name">
-                        NAME
+                        Name
                         <HalfWidthInput
                           type="text"
                           id="name"
@@ -115,7 +105,7 @@ const ContactForm = () => {
                         />
                       </FormLabel>
                       <FormLabel htmlFor="email">
-                        EMAIL
+                        Email
                         <HalfWidthInput
                           type="email"
                           id="email"
