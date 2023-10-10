@@ -1,7 +1,7 @@
 import styled from 'styled-components';
 
 export const ServicesContainer = styled.div`
-    height: 1100px;
+    height: 1000px;
     display: flex;
     flex-direction: column;
     justify-content: center;
@@ -9,15 +9,15 @@ export const ServicesContainer = styled.div`
     background: #010606;
 
 		@media screen and (max-width: 985px) {
-        height: 1300px;
+        height: 1200px;
     }
 
     @media screen and (max-width: 885px) {
-        height: 2300px;
+        height: 2200px;
     }
 
     @media screen and (max-width : 480px) {
-        height: 2300px;
+        height: 2200px;
     }
 `;
 
@@ -28,7 +28,7 @@ export const ServicesWrapper = styled.div`
     grid-template-columns: 1fr 1fr 1fr;
     align-items: center;
     grid-gap: 16px;
-    padding: 0 50px;
+    padding: 0 40px;
 
     @media screen and (max-width: 1000px) {
         grid-template-columns: 1fr 1fr;
@@ -46,7 +46,7 @@ export const ServicesCard = styled.div`
     flex-direction: column;
     justify-content: flex-start;
     align-items: center;
-    border-radius: 10px;
+    border-radius: 5px;
     max-height: 340px;
     padding: 30px;
     box-shadow: 0 1px 3px rgba(0,0,0,0.2);
