@@ -17,21 +17,21 @@ const Sidebar = ({isOpen, toggle}) => {
             </Icon>
             <SidebarWrapper>
                 <SidebarMenu>
-                    <SidebarLink to='about' onClick={toggle}>
+                    <SidebarLink to='About' onClick={toggle}>
                         Projects
                     </SidebarLink>
-                    <SidebarLink to='discover' onClick={toggle}>
+                    <SidebarLink to='Discover' onClick={toggle}>
                         Company
                     </SidebarLink>
-                    <SidebarLink to='services' onClick={toggle}>
+                    <SidebarLink to='Services' onClick={toggle}>
                         Services
                     </SidebarLink>
-                    <SidebarLink to='contact' onClick={toggle}>
+                    <SidebarLink to='Contact' onClick={toggle}>
                         Contact Form
                     </SidebarLink>
                 </SidebarMenu>
                 <SideBtnWrap>
-                    <SidebarRoute href="tel:+8801773143467">
+                    <SidebarRoute href="Mobile No:+8801773143467">
                         Call 017-7314-3467
                     </SidebarRoute>
                 </SideBtnWrap>

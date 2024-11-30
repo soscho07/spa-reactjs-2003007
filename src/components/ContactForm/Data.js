@@ -4,7 +4,7 @@ export const contactForm = {
     lightText: true,  
     lightTextDesc: true,  
     topLine: 'Company',
-    headline: 'Spark Food Dome',
+    headline: 'Innovative Food Dome',
     description: 'A food blogger  for "food video blogger" or "food content creator," is an individual who creates and shares video content primarily focused on food-related topics. These content creators are often passionate about food and culinary experiences, and they use various online platforms, such as YouTube, Instagram, TikTok, and blogs, to connect with their audience',
     buttonLabel: "We're Hiring! Click Here To Apply",
     imgStart: false,

@@ -71,7 +71,7 @@ const ContactForm = () => {
                 <TopLine>Contact Us</TopLine>
                 <Heading>Tell Us About Your Project</Heading>
                 <Subtitle>
-                  In Spark Food Dome we offer delicious and tasty food also for vegitarians. this Form also will test your sharpness.
+                  In Innovative Food Dome we offer delicious and tasty food also for vegitarians. this Form also will test your sharpness.
                 </Subtitle>
               </TextWrapper>
             </Column1>

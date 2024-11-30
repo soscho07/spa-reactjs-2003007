@@ -63,7 +63,7 @@ const HeroSection = () => {
         />
       </HeroBg>
       <HeroContent>
-        <HeroH1>Spark Food Dome</HeroH1>
+        <HeroH1>Innovative Food Dome</HeroH1>
         <HeroP>
           Cooking Foods, Fishing fishes,Cutting vegetables.
         </HeroP>
